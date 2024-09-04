@@ -2,7 +2,7 @@ package admin.ganesh.day2;
 
 import java.util.Scanner;
 
-public class conifelselader {
+public class coniflader {
 
 	public static void main(String[] args) {
 		Scanner scan=new Scanner(System.in);

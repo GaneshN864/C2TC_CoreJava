@@ -24,8 +24,6 @@ public class conifelselader {
 			else
 				System.out.println("FAIL");
 		}
-		else 
-			System.out.println("please correctly enter 0 to 100");
 
 	}
 
